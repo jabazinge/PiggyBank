@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Piggy Bank Children\'s App</string>
+    <string-array name="txtGroup">
+        <item>Select Action</item>
+        <item>Deposit</item>
+        <item>Withdrawal</item>
+
+
+    </string-array>
+    <string-array name="currency">
+        <item>quarters</item>
+        <item>dimes</item>
+        <item>pennies</item>
+        <item>enter</item>
+
+
+
+    </string-array>
+</resources>
